@@ -70,6 +70,28 @@ Commonly reported reactions across GLP-1 drugs include:
 
 These results align with known side-effect profiles of GLP-1 receptor agonists.
 
+## Example Visualisations
+
+### Semaglutide Adverse Reactions
+
+![Semaglutide Reactions](outputs/distribution of reported outcomes for semaglutide pie.png)
+(outputs/top 10 severe reactions reported in fatal cases associated with semaglutide.png)
+(outputs/
+
+### Liraglutide Adverse Reactions
+
+![Liraglutide Reactions](outputs/Distribution of reported outcomes for liraglutide.png)
+(outputs/distribution of reported outcomes for liraglutide pie.png)
+(outputs/top 10 severe reactions reported in fatal cases liraglutide.png)
+
+### Dulaglutide Adverse Reactions
+
+![Dulaglutide Reactions](outputs/distribution of reported outcomes for dulaglutide bar chart.png)
+(outputs/distribution of reported outcomes for dulaglutide.png)
+(outputs/top 10 severe reactions reported in fatal cases associated with dulaglutide.png)
+(outputs/distribution of reported outcomes for dulaglutide.png)
+
+
 ## Author
 
 Qudsia Imtiaz
